@@ -7,9 +7,9 @@
 **The Modern VPN Client That Just Works**
 
 [![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=windows)](https://github.com/Lunatik-cyber/AstroVPN_Windows/releases/latest)
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com/Lunatik-cyber/AstroVPN_Windows/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.1-blue?style=for-the-badge)](https://github.com/Lunatik-cyber/AstroVPN_Windows/releases)
 [![Windows](https://img.shields.io/badge/Windows-10%20|%2011-0078D4?style=for-the-badge&logo=windows)](https://github.com/Lunatik-cyber/AstroVPN_Windows)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE.txt)
+[![License](https://img.shields.io/badge/License-GPLv3-yellow?style=for-the-badge)](LICENSE.txt)
 
 ![AstroVPN Banner](https://github.com/Lunatik-cyber/AstroVPN_Windows/blob/main/logo.png)
 
