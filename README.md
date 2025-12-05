@@ -11,7 +11,7 @@
 [![Windows](https://img.shields.io/badge/Windows-10%20|%2011-0078D4?style=for-the-badge&logo=windows)](https://github.com/Lunatik-cyber/AstroVPN_Windows)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE.txt)
 
-![AstroVPN Banner](https://via.placeholder.com/1200x400/1a1a2e/eee?text=AstroVPN+-+Fast+%7C+Secure+%7C+Beautiful)
+![AstroVPN Banner](https://github.com/Lunatik-cyber/AstroVPN_Windows/blob/main/logo.png)
 
 [**Download Now**](https://github.com/Lunatik-cyber/AstroVPN_Windows/releases/latest) • [**View Demo**](#-experience-the-difference) • [**Get Support**](https://github.com/Lunatik-cyber/AstroVPN_Windows/issues)
 
@@ -84,17 +84,17 @@ Built-in auto-update system keeps you current with the latest features and secur
 ### Main Dashboard
 *Your command center for secure browsing*
 
-![Main Screen Preview](https://via.placeholder.com/800x500/1a1a2e/eee?text=AstroVPN+Dashboard)
+![Main Screen Preview](https://github.com/Lunatik-cyber/AstroVPN_Windows/blob/main/screen1.png)
 
 ### Server Selection
 *Choose from 185+ countries worldwide*
 
-![Server Selection](https://via.placeholder.com/800x500/1a1a2e/eee?text=Global+Server+Network)
+![Server Selection](https://github.com/Lunatik-cyber/AstroVPN_Windows/blob/main/screen2.png)
 
 ### Live Statistics
 *Real-time monitoring of your connection*
 
-![Live Stats](https://via.placeholder.com/800x500/1a1a2e/eee?text=Real-Time+Statistics)
+![Live Stats](https://github.com/Lunatik-cyber/AstroVPN_Windows/blob/main/screen3.png)
 
 </div>
 
