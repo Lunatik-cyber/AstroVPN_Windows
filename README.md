@@ -239,38 +239,9 @@ Your privacy is our priority. AstroVPN uses industry-standard encryption protoco
 
 </div>
 
----
-
-## 🎉 What Users Say
-
-<table>
-<tr>
-<td>
-<p><i>"Finally, a VPN that's both powerful and easy to use. The interface is gorgeous!"</i></p>
-<p align="right"><b>- Alex M.</b></p>
-</td>
-<td>
-<p><i>"Super fast connection speeds. I can stream 4K without any buffering."</i></p>
-<p align="right"><b>- Sarah K.</b></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><i>"Love the system tray integration. It stays out of my way but is there when I need it."</i></p>
-<p align="right"><b>- James L.</b></p>
-</td>
-<td>
-<p><i>"Clean, modern design and super reliable. Best free VPN client I've tried."</i></p>
-<p align="right"><b>- Maria R.</b></p>
-</td>
-</tr>
-</table>
-
----
-
 ## 📝 License
 
-AstroVPN is open-source software licensed under the [MIT License](LICENSE.txt). Free to use, modify, and distribute.
+AstroVPN is open-source software licensed under the [GPLv3 License](LICENSE.txt). Free to use, modify, and distribute.
 
 ---
 
